@@ -68,20 +68,27 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
+### Initial data set:
 ![238831862-b1162149-bbea-43a7-96a9-354fd108a151](https://github.com/srikarthickeyanganapathy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393842/2106874b-eebd-438a-a3e1-46eed277e34d)
 
+### Data info:
 ![238831958-bfe60847-ed9a-487c-a700-b43dca8659a5](https://github.com/srikarthickeyanganapathy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393842/71e876dc-c83d-461d-aeec-7e834dd60fa7)
 
+### Optimization of null values:
 ![238832170-7f03738f-ea1f-4338-a98b-1ef247f52708](https://github.com/srikarthickeyanganapathy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393842/832b5cf8-f3a0-4345-9a43-29cee62df70f)
 
+### Assignment of x and y values:
 ![238834981-a4e857d7-6fa3-4dc1-b615-ec4f8433c511](https://github.com/srikarthickeyanganapathy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393842/b8bc81d8-4095-4027-afb5-cf2424d3346d)
 
 ![238832413-ff85899e-0a75-4138-9b2a-d9abcdf20138](https://github.com/srikarthickeyanganapathy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393842/46fdc5ca-d3b3-46d1-9813-7261556a6457)
 
+### Converting string literals to numerical values using label encoder:
 ![238832633-6bf35c61-a89f-4af3-bdaf-840d8b320af5](https://github.com/srikarthickeyanganapathy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393842/f327843d-aa40-47f0-b5aa-202133c4195a)
 
+### Accuracy:
 ![238832895-3010e840-d901-478a-ba93-82eba77e27e9](https://github.com/srikarthickeyanganapathy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393842/db4ebc71-95ab-4924-b58c-19e2c2038d3e)
 
+### Prediction:
 ![238833279-ebb42f60-6046-426c-9759-e629b2a68b2c](https://github.com/srikarthickeyanganapathy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393842/6f618b4d-a675-4f21-9bb8-28c23575a11a)
 
 ## Result:
